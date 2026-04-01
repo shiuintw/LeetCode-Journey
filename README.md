@@ -3,12 +3,7 @@
 >This is my jorney in LC.
 >Provided by cy hsu in NYCU CS
 
-# Comment
-
-I'll continuously update this repo to update my past solutions on leetcode.\
-progress: 2/15
-
-# Links
+# Account Links
 
 [LeetCode-shiuintw](https://leetcode.com/u/ZIzpoQAq3w/)\
 [LeetCode-AjiHsu](https://leetcode.com/u/AJI_Hsu/)\
