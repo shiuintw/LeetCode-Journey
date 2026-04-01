@@ -1,6 +1,6 @@
 # LeetCode Journey
 
->This is my jorney in LC.
+>This is my jorney on LC.
 >Provided by cy hsu in NYCU CS
 
 # Account Links
