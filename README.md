@@ -20,5 +20,5 @@ The contest rate in picture reveal that I'm top 3% of global, and with Knight Le
 
 # Future
 
-This update may mark the end of the account `AjiHsu`, and to record my jobs in this account.\
+This update may mark the end of the account `AjiHsu`, and record my jobs in this account.\
 For the following years, I'm going to do all my work on `shiuintw`.
