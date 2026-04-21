@@ -3,6 +3,8 @@
 >This is my jorney on LC.
 >Provided by cy hsu in NYCU CS
 
+See My Solutions at `/Solutions/*` or account below.
+
 # Account Links
 
 [LeetCode-shiuintw](https://leetcode.com/u/ZIzpoQAq3w/)\
